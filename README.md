@@ -23,5 +23,8 @@ This project is unofficial. I am not responsible for any issues that may arise w
    ```
 5. Copy the returned token and use it as `bearerToken`
 
+## Note
+If you log out of the website, you will need to get the token again
+
 ## Donate
 - **Toncoin (TON)**: `UQA1WjvbtTe6tXgrwLAaHtzwtZgJSYZCNZMIRN6kl6LOHc03`
